@@ -80,7 +80,7 @@ Garoan(
 
 ##### Methods
 
-Following methods set direction of Robot. Direction can be forward, backward, left, right or "none".
+Following methods set direction of robot. Direction can be forward, backward, left, right or "none".
 
 ```cpp
 void directionForward();
@@ -93,7 +93,7 @@ void setDirection(DIRECTIONS direction);
 
 
 
-Following methods sets speed of robot.
+Following methods sets speed of motor. Speed can be slow, normal, fast or "zero"
 
 ```cpp
 void setSpeed(SPEEDS speed);
